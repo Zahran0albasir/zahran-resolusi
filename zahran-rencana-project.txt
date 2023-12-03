@@ -2,6 +2,9 @@ RENCANA PROJECT
 - Buat web bisnis
  a. menu bar
  b. back-end
+ c. fornt-end
 - Buat web perusahaan
 - Buat web komunitas
 - Buat Robotik
+ a. rocket
+ b. keren
