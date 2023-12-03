@@ -2,8 +2,10 @@ RENCANA PROJECT
 - Buat web bisnis
  a. menu bar
  b. back-end
-  - cyber security
+ c. fornt-end
 - Buat web perusahaan
  a. Cyber Security
 - Buat Robotik
  a. Pesawat
+ c. rocket
+ d. keren
