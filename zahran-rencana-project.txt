@@ -1,0 +1,6 @@
+RENCANA PROJECT
+- Buat web bisnis
+ a. menu bar
+ b. back-end
+- Buat web perusahaan
+- Buat web komunitas
