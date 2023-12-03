@@ -4,7 +4,8 @@ RENCANA PROJECT
  b. back-end
  c. fornt-end
 - Buat web perusahaan
-- Buat web komunitas
+ a. Cyber Security
 - Buat Robotik
- a. rocket
- b. keren
+ a. Pesawat
+ c. rocket
+ d. keren
